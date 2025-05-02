@@ -1,0 +1,73 @@
+Nombre: Juan Perez
+Nacimiento: 1970-03-15
+Graduacion: 1992-06-20
+Matrimonio: N/A
+Muerte: 2040-12-01
+Loteria: 2010-07-15
+---
+Nombre: Ana Gomez
+Nacimiento: 1985-11-05
+Graduacion: N/A
+Matrimonio: 2010-10-30
+Muerte: N/A
+Loteria: 2020-03-12
+---
+Nombre: Luis Martinez
+Nacimiento: 1980-08-15
+Graduacion: 2012-12-10
+Matrimonio: 2015-04-17
+Muerte: 2024-06-06
+Loteria: N/A
+---
+Nombre: Carmen Rodriguez
+Nacimiento: 1975-07-09
+Graduacion: N/A
+Matrimonio: 2000-05-28
+Muerte: 2045-03-22
+Loteria: N/A
+---
+Nombre: Diego Fernandez
+Nacimiento: 1982-04-17
+Graduacion: 2005-07-03
+Matrimonio: 2008-11-20
+Muerte: N/A
+Loteria: 2016-02-18
+---
+Nombre: Laura Sanchez
+Nacimiento: 1995-09-30
+Graduacion: 2018-06-25
+Matrimonio: 2022-12-01
+Muerte: N/A
+Loteria: N/A
+---
+Nombre: Pedro Ramirez
+Nacimiento: 1965-02-14
+Graduacion: 1987-10-08
+Matrimonio: 1990-03-25
+Muerte: 2035-01-11
+Loteria: N/A
+---
+Nombre: Mariana Castro
+Nacimiento: 1984-08-20
+Graduacion: 2002-04-17
+Matrimonio: 2005-07-30
+Muerte: N/A
+Loteria: 2015-11-20
+---
+Nombre: Esteban Morales
+Nacimiento: 1978-12-21
+Graduacion: 2000-05-10
+Matrimonio: 2003-09-14
+Muerte: N/A
+Loteria: N/A
+---
+Nombre: Sofia Herrera
+Nacimiento: 1992-08-11
+Graduacion: 2015-12-03
+Matrimonio: 2019-04-22
+Muerte: 2080-10-12
+Loteria: 2023-09-03
+---
+
+
+
