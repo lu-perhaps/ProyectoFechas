@@ -2,8 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mycompany.proyectofechas;
-import com.mycompany.proyectofechas.GestionCalculadora;
+package Vista;
+import Modelo.Persona;
+import Modelo.ManejoArchivos;
+import Modelo.GestionPersona;
+import Modelo.GestionCalculadora;
 import java.time.LocalDate;
 import java.util.ArrayList;
 /**
@@ -20,7 +23,7 @@ public class Calculadora extends javax.swing.JFrame {
     public Calculadora() {
         initComponents();
         setTitle("Calculadora");
-        personas = ManejoArchivos.leerPersonasDesdeArchivo("src/main/java/com/mycompany/proyectofechas/datos.txt");
+        personas = ManejoArchivos.leerPersonasDesdeArchivo("C:\\Users\\lucia\\Downloads\\ProyectoFechas-20250501T225259Z-001-20250502T130902Z-001\\ProyectoFechas-20250501T225259Z-001\\ProyectoFechas\\src\\main\\java\\Archivo\\datos.txt");
         calculo = new GestionCalculadora(); // Inicializar la clase Calculo
         gestionPersonas = new GestionPersona();
     }
